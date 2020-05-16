@@ -1,4 +1,4 @@
-# GoogleMapsReviewsScraping
+# GoogleMapReviewsScraping
 Reviews of specific place id of google maps is scraped.
 
 In the above project, reviews of users are scraped from google maps of specific place ID.
